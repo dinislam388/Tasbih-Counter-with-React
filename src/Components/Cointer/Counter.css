@@ -1,0 +1,56 @@
+.count {
+    font-size: 80px;
+    color: rgb(159, 106, 220);
+    /* justify-content: space-around; */
+    text-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.heading {
+    font-size: 50px;
+}
+
+.subhanallah {
+    padding: 10px 20px;
+    margin-right: 20px;
+    font-size: 35px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}  
+
+.allahuakbarBtn {
+    padding: 10px 20px;
+    margin-right: 20px;
+    font-size: 35px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+
+}
+
+.alhamdulillahBtn {
+    padding: 10px 20px;
+    margin-right: 20px;
+    font-size: 35px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+
+}
+
+.resetBtn {
+    padding: 10px 20px;
+    margin-right: 20px;
+    font-size: 35px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+
+}
+
+.resetBtn span {
+    font-size: 20px;
+    color: black;
+    cursor: pointer;
+}
+
+/* .body {
+    width: 100%;
+    background-color: blanchedalmond;
+} */
